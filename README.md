@@ -12,6 +12,8 @@ Hi there! My name is Víctor and I'm an Android and mobile developer based in Sp
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-22284f.svg?style=for-the-badge&logo=android&logoColor=green)
 ![Ktor](https://img.shields.io/badge/Ktor-009688.svg?style=for-the-badge&logo=Ktor&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-00ADD8.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Dagger Hilt](https://img.shields.io/badge/Dagger%20Hilt-8A2BE2.svg?style=for-the-badge&logo=dagger&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white)
